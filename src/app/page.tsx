@@ -9,7 +9,7 @@ export default function Home() {
 
     return (
         <div className="max-w-4xl mx-auto py-8">
-            <h1 className="text-3xl font-bold mb-8">欢迎来到 Jotai 示例</h1>
+            <h1 className="text-3xl font-bold mb-8">Jotai 示例</h1>
             <Directory items={directory} />
         </div>
     );
